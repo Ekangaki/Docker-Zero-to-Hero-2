@@ -1,2 +1,2 @@
-# Docker-Zero-to-Hero-2
-Docker-Zero-to-Hero-2
+# Docker-Zero-to-Hero
+Docker-Zero-to-Hero
